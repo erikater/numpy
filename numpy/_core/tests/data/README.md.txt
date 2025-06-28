@@ -1,3 +1,5 @@
+estoy feliz de hacer mi primera edicion 
+
 Steps to validate transcendental functions:
 1) Add a file 'umath-validation-set-<ufuncname>.txt', where ufuncname is name of
    the function in NumPy you want to validate
